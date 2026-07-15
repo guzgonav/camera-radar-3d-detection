@@ -1,0 +1,5952 @@
+{
+  "scene-0001.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0002.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0003.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "parking"
+  },
+  "scene-0004.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0005.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0006.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0007.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0008.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0009.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0010.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0011.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0012.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0013.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0014.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0015.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0016.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0017.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0018.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0019.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0020.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "parking"
+  },
+  "scene-0021.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0022.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0023.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0024.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0025.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0026.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0027.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0028.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0029.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0030.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0031.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0032.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0033.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0034.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0035.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0036.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0038.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0039.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0041.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0042.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0043.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0044.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0045.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0046.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0047.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0048.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0049.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0050.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0051.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0052.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0053.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0054.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0055.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0056.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0057.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0058.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0059.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0060.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0061.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0062.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0063.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0064.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0065.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0066.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0067.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0068.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0069.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0070.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0071.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0072.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0073.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0074.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0075.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0076.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "mixed"
+  },
+  "scene-0092.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0093.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0094.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0095.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0096.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0097.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0098.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0099.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0100.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0101.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0102.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0103.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0104.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0105.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0106.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0107.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0108.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "parking"
+  },
+  "scene-0109.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "mixed"
+  },
+  "scene-0110.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0120.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "parking"
+  },
+  "scene-0121.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0122.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0123.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0124.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0125.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0126.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0127.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "parking"
+  },
+  "scene-0128.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0129.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "parking"
+  },
+  "scene-0130.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "parking"
+  },
+  "scene-0131.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0132.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "parking"
+  },
+  "scene-0133.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0134.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0135.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0138.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0139.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0149.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0150.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0151.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0152.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "cloudy",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0154.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0155.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "cloudy",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0157.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "cloudy",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0158.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "cloudy",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0159.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "cloudy",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0160.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0161.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "parking"
+  },
+  "scene-0162.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "parking"
+  },
+  "scene-0163.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0164.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "mixed"
+  },
+  "scene-0165.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0166.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0167.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "mixed"
+  },
+  "scene-0168.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0170.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0171.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0172.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0173.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "mixed"
+  },
+  "scene-0174.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0175.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0176.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0177.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0178.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0179.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0180.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0181.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0182.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0183.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0184.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "parking"
+  },
+  "scene-0185.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "parking"
+  },
+  "scene-0187.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0188.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0190.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0191.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0192.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "wet",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0193.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0194.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0195.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0196.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0199.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0200.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "parking"
+  },
+  "scene-0202.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "parking"
+  },
+  "scene-0203.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "wet",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0204.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0206.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0207.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0208.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0209.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "mixed"
+  },
+  "scene-0210.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0211.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0212.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0213.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0214.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0218.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "parking"
+  },
+  "scene-0219.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0220.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0221.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0222.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0224.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0225.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0226.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0227.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0228.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0229.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0230.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0231.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0232.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0233.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0234.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0235.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0236.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0237.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0238.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0239.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0240.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0241.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0242.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0243.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0244.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0245.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0246.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0247.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0248.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0249.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0250.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0251.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0252.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0253.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0254.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0255.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "parking"
+  },
+  "scene-0256.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0257.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0258.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0259.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0260.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0261.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0262.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0263.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0264.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0268.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0269.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0270.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0271.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "cloudy",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0272.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0273.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0274.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0275.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0276.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0277.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0278.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0283.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "parking"
+  },
+  "scene-0284.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "parking"
+  },
+  "scene-0285.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0286.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0287.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0288.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0289.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0290.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0291.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0292.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0293.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0294.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0295.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0296.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0297.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0298.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0299.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0300.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0301.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0302.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0303.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0304.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0305.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0306.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0315.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0316.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0317.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0318.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0321.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0323.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0324.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0328.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "mixed"
+  },
+  "scene-0329.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0330.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0331.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0332.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0344.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0345.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0346.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0347.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0348.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0349.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "mixed"
+  },
+  "scene-0350.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "fog",
+    "camera_difficulty": 4,
+    "road_type": "mixed"
+  },
+  "scene-0351.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "fog",
+    "camera_difficulty": 4,
+    "road_type": "mixed"
+  },
+  "scene-0352.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0353.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0354.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0355.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0356.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0357.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0358.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0359.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0360.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "parking"
+  },
+  "scene-0361.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "parking"
+  },
+  "scene-0362.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0363.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0364.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0365.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0366.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0367.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "mixed"
+  },
+  "scene-0368.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0369.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0370.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0371.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0372.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0373.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "parking"
+  },
+  "scene-0374.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 5,
+    "road_type": "parking"
+  },
+  "scene-0375.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0376.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0377.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0378.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0379.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "mixed"
+  },
+  "scene-0380.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0381.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "mixed"
+  },
+  "scene-0382.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0383.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0384.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0385.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0386.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0388.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0389.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0390.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0391.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0392.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0393.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0394.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0395.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0396.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0397.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0398.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0399.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "mixed"
+  },
+  "scene-0400.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "mixed"
+  },
+  "scene-0401.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0402.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0403.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0405.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0406.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0407.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0408.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0410.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0411.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0412.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0413.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0414.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0415.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0416.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "mixed"
+  },
+  "scene-0417.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0418.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0419.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0420.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "parking"
+  },
+  "scene-0421.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0422.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0423.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "mixed"
+  },
+  "scene-0424.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0425.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0426.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0427.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0428.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0429.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0430.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0431.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0432.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0433.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0434.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0435.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0436.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0437.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0438.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0439.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0440.jpg": {
+    "day_night": "day",
+    "visibility": 3,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0441.jpg": {
+    "day_night": "day",
+    "visibility": 3,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "parking"
+  },
+  "scene-0442.jpg": {
+    "day_night": "day",
+    "visibility": 3,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0443.jpg": {
+    "day_night": "day",
+    "visibility": 3,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0444.jpg": {
+    "day_night": "day",
+    "visibility": 3,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0445.jpg": {
+    "day_night": "day",
+    "visibility": 3,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0446.jpg": {
+    "day_night": "day",
+    "visibility": 3,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0447.jpg": {
+    "day_night": "day",
+    "visibility": 3,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0448.jpg": {
+    "day_night": "day",
+    "visibility": 3,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0449.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0450.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0451.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0452.jpg": {
+    "day_night": "day",
+    "visibility": 3,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0453.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0454.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0455.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0456.jpg": {
+    "day_night": "day",
+    "visibility": 3,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0457.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "parking"
+  },
+  "scene-0458.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0459.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0461.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0462.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0463.jpg": {
+    "day_night": "day",
+    "visibility": 3,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0464.jpg": {
+    "day_night": "day",
+    "visibility": 3,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0465.jpg": {
+    "day_night": "day",
+    "visibility": 3,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0467.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0468.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0469.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0471.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0472.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0474.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0475.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0476.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0477.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0478.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0479.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0480.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0499.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0500.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0501.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0502.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0504.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0505.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "mixed"
+  },
+  "scene-0506.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0507.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0508.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "mixed"
+  },
+  "scene-0509.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0510.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0511.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0512.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0513.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0514.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0515.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0517.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0518.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0519.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0520.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0521.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0522.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0523.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "mixed"
+  },
+  "scene-0524.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0525.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "mixed"
+  },
+  "scene-0526.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0527.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0528.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0529.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0530.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0531.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0532.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0533.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0534.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0535.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "mixed"
+  },
+  "scene-0536.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0537.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0538.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0539.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "mixed"
+  },
+  "scene-0541.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "mixed"
+  },
+  "scene-0542.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0543.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0544.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0545.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0546.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0552.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0553.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0554.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0555.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0556.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0557.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0558.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0559.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0560.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0561.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0562.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0563.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0564.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0565.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0566.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "mixed"
+  },
+  "scene-0568.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0570.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0571.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "mixed"
+  },
+  "scene-0572.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0573.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0574.jpg": {
+    "day_night": "day",
+    "visibility": 3,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "mixed"
+  },
+  "scene-0575.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0576.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0577.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0578.jpg": {
+    "day_night": "day",
+    "visibility": 3,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "mixed"
+  },
+  "scene-0580.jpg": {
+    "day_night": "day",
+    "visibility": 3,
+    "weather": "rain",
+    "camera_difficulty": 9,
+    "road_type": "mixed"
+  },
+  "scene-0582.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0583.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0584.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "mixed"
+  },
+  "scene-0585.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0586.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "mixed"
+  },
+  "scene-0587.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "mixed"
+  },
+  "scene-0588.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "mixed"
+  },
+  "scene-0589.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0590.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "rain",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0591.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "rain",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0592.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0593.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "mixed"
+  },
+  "scene-0594.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "mixed"
+  },
+  "scene-0595.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0596.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0597.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0598.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "mixed"
+  },
+  "scene-0599.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "mixed"
+  },
+  "scene-0600.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "rain",
+    "camera_difficulty": 5,
+    "road_type": "mixed"
+  },
+  "scene-0625.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0626.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "mixed"
+  },
+  "scene-0627.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "mixed"
+  },
+  "scene-0629.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "mixed"
+  },
+  "scene-0630.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "mixed"
+  },
+  "scene-0632.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "mixed"
+  },
+  "scene-0633.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "mixed"
+  },
+  "scene-0634.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "mixed"
+  },
+  "scene-0635.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "mixed"
+  },
+  "scene-0636.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "mixed"
+  },
+  "scene-0637.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0638.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0639.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "mixed"
+  },
+  "scene-0640.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "mixed"
+  },
+  "scene-0641.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0642.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0643.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0644.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 5,
+    "road_type": "mixed"
+  },
+  "scene-0645.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0646.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "mixed"
+  },
+  "scene-0647.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "mixed"
+  },
+  "scene-0648.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0649.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "mixed"
+  },
+  "scene-0650.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0651.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0652.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0653.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0654.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0655.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0656.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0657.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0658.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0659.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0660.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "mixed"
+  },
+  "scene-0661.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0662.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0663.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0664.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "mixed"
+  },
+  "scene-0665.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0666.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0667.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0668.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0669.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0670.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0671.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0672.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "mixed"
+  },
+  "scene-0673.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0674.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0675.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0676.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0677.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0678.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0679.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0681.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0683.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0684.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "mixed"
+  },
+  "scene-0685.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "mixed"
+  },
+  "scene-0686.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0687.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "mixed"
+  },
+  "scene-0688.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0689.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0695.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0696.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0697.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0698.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "mixed"
+  },
+  "scene-0700.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0701.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0703.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0704.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0705.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0706.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0707.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0708.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0709.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0710.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0711.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0712.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0713.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0714.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0715.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0716.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0717.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0718.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0719.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0726.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0727.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0728.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0730.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0731.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0733.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0734.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0735.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0736.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0737.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0738.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0739.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0740.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0741.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0744.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0746.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0747.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0749.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0750.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0751.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0752.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0757.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0758.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0759.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0760.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0761.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0762.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0763.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0764.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0765.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0767.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0768.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0769.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0770.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0771.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0775.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0777.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0778.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "mixed"
+  },
+  "scene-0780.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0781.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0782.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0783.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0784.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0786.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0787.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0789.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0790.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0791.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0792.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0794.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0795.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0796.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0797.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0798.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0799.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0800.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0802.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0803.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0804.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0805.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0806.jpg": {
+    "day_night": "day",
+    "visibility": 3,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0808.jpg": {
+    "day_night": "day",
+    "visibility": 3,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0809.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0810.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0811.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0812.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0813.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0815.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0816.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0817.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0819.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0820.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0821.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0822.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0847.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0848.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0849.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0850.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0851.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0852.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0853.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0854.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0855.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0856.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0858.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "rain",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0860.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0861.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0862.jpg": {
+    "day_night": "day",
+    "visibility": 3,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0863.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0864.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0865.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0866.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0868.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0869.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0870.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0871.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0872.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0873.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0875.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0876.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0877.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0878.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0880.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0882.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0883.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0884.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0885.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0886.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0887.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0888.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0889.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0890.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0891.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0892.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0893.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0894.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0895.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0896.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0897.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0898.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0899.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0900.jpg": {
+    "day_night": "day",
+    "visibility": 4,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0901.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0902.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0903.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0904.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0905.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0906.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0907.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0908.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0909.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0910.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0911.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "rain",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-0912.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0913.jpg": {
+    "day_night": "day",
+    "visibility": 3,
+    "weather": "rain",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0914.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0915.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "rain",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-0916.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "parking"
+  },
+  "scene-0917.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0919.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0920.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "parking"
+  },
+  "scene-0921.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0922.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0923.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0924.jpg": {
+    "day_night": "day",
+    "visibility": 6,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0925.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0926.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0927.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0928.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0929.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0930.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0931.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0945.jpg": {
+    "day_night": "day",
+    "visibility": 5,
+    "weather": "cloudy",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0947.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0949.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0952.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0953.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0955.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0956.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0957.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0958.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0959.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0960.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0961.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0962.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0963.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0966.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0967.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0968.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0969.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "parking"
+  },
+  "scene-0971.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0972.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "cloudy",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0975.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0976.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0977.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0978.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0979.jpg": {
+    "day_night": "day",
+    "visibility": 9,
+    "weather": "clear",
+    "camera_difficulty": 2,
+    "road_type": "urban"
+  },
+  "scene-0980.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0981.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0982.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0983.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 4,
+    "road_type": "urban"
+  },
+  "scene-0984.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0988.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0989.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0990.jpg": {
+    "day_night": "day",
+    "visibility": 7,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "urban"
+  },
+  "scene-0991.jpg": {
+    "day_night": "day",
+    "visibility": 8,
+    "weather": "clear",
+    "camera_difficulty": 3,
+    "road_type": "parking"
+  },
+  "scene-0992.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0994.jpg": {
+    "day_night": "night",
+    "visibility": 2,
+    "weather": "clear",
+    "camera_difficulty": 9,
+    "road_type": "urban"
+  },
+  "scene-0995.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0996.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0997.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-0998.jpg": {
+    "day_night": "night",
+    "visibility": 3,
+    "weather": "clear",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-0999.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1000.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1001.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1002.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1003.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1004.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1005.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1006.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1007.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1008.jpg": {
+    "day_night": "night",
+    "visibility": 3,
+    "weather": "clear",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-1009.jpg": {
+    "day_night": "night",
+    "visibility": 3,
+    "weather": "clear",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-1010.jpg": {
+    "day_night": "night",
+    "visibility": 3,
+    "weather": "clear",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-1011.jpg": {
+    "day_night": "night",
+    "visibility": 3,
+    "weather": "clear",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-1012.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1013.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1014.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1015.jpg": {
+    "day_night": "night",
+    "visibility": 3,
+    "weather": "clear",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-1016.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1017.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1018.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1019.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1020.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1021.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1022.jpg": {
+    "day_night": "night",
+    "visibility": 3,
+    "weather": "clear",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-1023.jpg": {
+    "day_night": "night",
+    "visibility": 3,
+    "weather": "clear",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-1024.jpg": {
+    "day_night": "night",
+    "visibility": 3,
+    "weather": "clear",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-1025.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1044.jpg": {
+    "day_night": "night",
+    "visibility": 6,
+    "weather": "wet",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-1045.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "wet",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1046.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "wet",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1047.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "wet",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1048.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "wet",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1049.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "wet",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1050.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "wet",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1051.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1052.jpg": {
+    "day_night": "night",
+    "visibility": 3,
+    "weather": "clear",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-1053.jpg": {
+    "day_night": "night",
+    "visibility": 3,
+    "weather": "clear",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-1054.jpg": {
+    "day_night": "night",
+    "visibility": 2,
+    "weather": "clear",
+    "camera_difficulty": 9,
+    "road_type": "urban"
+  },
+  "scene-1055.jpg": {
+    "day_night": "night",
+    "visibility": 3,
+    "weather": "clear",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-1056.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "wet",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1057.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "wet",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1058.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "wet",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1059.jpg": {
+    "day_night": "night",
+    "visibility": 3,
+    "weather": "wet",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-1060.jpg": {
+    "day_night": "night",
+    "visibility": 3,
+    "weather": "wet",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-1061.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "wet",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1062.jpg": {
+    "day_night": "night",
+    "visibility": 2,
+    "weather": "clear",
+    "camera_difficulty": 9,
+    "road_type": "urban"
+  },
+  "scene-1063.jpg": {
+    "day_night": "night",
+    "visibility": 3,
+    "weather": "clear",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-1064.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1065.jpg": {
+    "day_night": "night",
+    "visibility": 3,
+    "weather": "clear",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-1066.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1067.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "wet",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1068.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1069.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "wet",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-1070.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "wet",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-1071.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "wet",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-1072.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "clear",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-1073.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1074.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "wet",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-1075.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1076.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1077.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "clear",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-1078.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1079.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1080.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "wet",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-1081.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1082.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "clear",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-1083.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "clear",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-1084.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1085.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "clear",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-1086.jpg": {
+    "day_night": "night",
+    "visibility": 3,
+    "weather": "clear",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-1087.jpg": {
+    "day_night": "night",
+    "visibility": 3,
+    "weather": "clear",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-1088.jpg": {
+    "day_night": "night",
+    "visibility": 3,
+    "weather": "clear",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-1089.jpg": {
+    "day_night": "night",
+    "visibility": 2,
+    "weather": "clear",
+    "camera_difficulty": 9,
+    "road_type": "urban"
+  },
+  "scene-1090.jpg": {
+    "day_night": "night",
+    "visibility": 3,
+    "weather": "clear",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-1091.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "wet",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1092.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "wet",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1093.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "wet",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-1094.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "wet",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-1095.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "clear",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-1096.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "clear",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-1097.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "clear",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-1098.jpg": {
+    "day_night": "night",
+    "visibility": 6,
+    "weather": "clear",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-1099.jpg": {
+    "day_night": "night",
+    "visibility": 6,
+    "weather": "clear",
+    "camera_difficulty": 5,
+    "road_type": "urban"
+  },
+  "scene-1100.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "clear",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-1101.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "clear",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-1102.jpg": {
+    "day_night": "night",
+    "visibility": 5,
+    "weather": "clear",
+    "camera_difficulty": 6,
+    "road_type": "urban"
+  },
+  "scene-1104.jpg": {
+    "day_night": "night",
+    "visibility": 3,
+    "weather": "rain",
+    "camera_difficulty": 9,
+    "road_type": "urban"
+  },
+  "scene-1105.jpg": {
+    "day_night": "night",
+    "visibility": 3,
+    "weather": "clear",
+    "camera_difficulty": 8,
+    "road_type": "urban"
+  },
+  "scene-1106.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1107.jpg": {
+    "day_night": "night",
+    "visibility": 4,
+    "weather": "clear",
+    "camera_difficulty": 7,
+    "road_type": "urban"
+  },
+  "scene-1108.jpg": {
+    "day_night": "night",
+    "visibility": 3,
+    "weather": "rain",
+    "camera_difficulty": 9,
+    "road_type": "urban"
+  },
+  "scene-1109.jpg": {
+    "day_night": "night",
+    "visibility": 3,
+    "weather": "rain",
+    "camera_difficulty": 9,
+    "road_type": "urban"
+  },
+  "scene-1110.jpg": {
+    "day_night": "night",
+    "visibility": 3,
+    "weather": "rain",
+    "camera_difficulty": 9,
+    "road_type": "urban"
+  }
+}
