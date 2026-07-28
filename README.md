@@ -1,5 +1,14 @@
 # Camera-Radar Fusion for 3D Object Detection
 
+<p align="center">
+  <img src="assets/demo_scene-0104.gif" width="900" alt="Animated camera and bird's-eye-view 3D car detections from the camera-radar fusion model on a nuScenes validation scene">
+</p>
+
+<p align="center">
+  <em>Best model pipeline built on a nuScenes validation scene.<br>
+  Camera overlay (left) and BEV plot (right): ground truth in white, matched detections in green, radar returns in cyan.</em>
+</p>
+
 Camera-radar fusion for 3D object detection on nuScenes, comparing detection-level,
 mid-level (BEV), and early-fusion designs against camera-only and radar-only
 baselines under one shared radar preprocessing pipeline and evaluation protocol.
